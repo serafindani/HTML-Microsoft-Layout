@@ -4,4 +4,9 @@ span {
 
 body {
     text-align: center;
+} 
+
+.resize {
+    max-width: 100px;
+    max-height: auto;
 }
